@@ -1,1 +1,18 @@
+body {
+    background-color: skyblue;
+}
 
+header {
+    background-color: royalblue;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.image {
+    margin: 0 auto;
+    width: 300px;
+    display: block;
+}
