@@ -1,1 +1,12 @@
+body {
+    background-color: skyblue;
+}
 
+header {
+    background-color: royalblue;
+    text-align: center;
+}
+
+h3 {
+    text-align: center
+}
