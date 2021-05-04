@@ -55,9 +55,20 @@ p {
     color: white;
 }
 
-ul, ol {
+ul {
     font-family: calibri, arial;
-    color: white
+    color: white;
+    width: 250px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+ol {
+    font-family: calibri, arial;
+    color: white;
+    width: 50px;
+    margin: 0 auto;
+    text-align: left;
 }
 
 /* link styling */
@@ -65,7 +76,7 @@ a:link {
     color: blue;    
 }
 a:visited { 
-    color: purple;  
+    color: rgb(245, 39, 39);  
 }
 a:hover { 
     color: green;    
