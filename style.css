@@ -1,18 +1,19 @@
+/* background color for whole page */
 body {
-    background-color: darkgreen;
+    background-color: black;
 }
-
+/* top line of page */
 h1 {
-    font-family: fantasy;
+    font-family: unset, fantasy;
     font-size: 40px;
     margin: 0px;
     padding: 0px;
     letter-spacing: 3px;
-    color: purple;
+    font-style: oblique;
 }
-
+/* formatting headers */
 header, h3 {
-    background-color: lightgreen;
+    background-color: royalblue;
     text-align: center;
     padding: 0px;
 }
@@ -25,29 +26,50 @@ h2, h3 {
     font-family: arial;
 }
 
+/* formatting divider */
 hr {
-    background-color: black;
+    background: gray;
+    height: 5px;
+    border: none;
 }
 
+/* center all except bio section */
 div {
     text-align: center;
-}
-
-.image {
-    margin: 0 auto;
-    width: 300px;
-    height: 400px;
-    display: block;
 }
 
 footer {
     text-align: center;
 }
 
-p {
-    font-family: calibri, arial;
+/* formatting pic */
+.image {
+    margin: 0 auto;
+    width: 300px;
+    display: block;
 }
 
-ul {
+/* formatting text */
+p {
     font-family: calibri, arial;
+    color: white;
+}
+
+ul, ol {
+    font-family: calibri, arial;
+    color: white
+}
+
+/* link styling */
+a:link {
+    color: blue;    
+}
+a:visited { 
+    color: purple;  
+}
+a:hover { 
+    color: green;    
+}
+a:active { 
+    color: white;  
 }
