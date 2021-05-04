@@ -1,5 +1,3 @@
 # Portfolio-Page
 
-Portfolio for Steven Ramirez with description and contact info
-
-/
+Portfolio page for Steven Ramirez with brief bio and contact info.
