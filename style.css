@@ -68,7 +68,7 @@ ol {
     background-color: royalblue;
     height: 30px;
     width: 60px;
-    font-size: 15px;
+    /* font-size: 15px; */
     margin-left: 5px;
     margin-right: 5px;
 }
