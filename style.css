@@ -19,18 +19,11 @@ header, h3 {
 }
 
 h2.title-line {
-    margin-top: 5px;
+    margin-top: 1px;
 }
 
 h2, h3 {
     font-family: arial;
-}
-
-/* formatting divider */
-hr {
-    background: gray;
-    height: 5px;
-    border: none;
 }
 
 /* center all except bio section */
@@ -45,7 +38,7 @@ footer {
 /* formatting pic */
 .image {
     margin: 0 auto;
-    width: 300px;
+    width: 360px;
     display: block;
 }
 
@@ -72,8 +65,8 @@ ol {
 }
 
 button {
-    color: royalblue;
-    padding: 15px 30px;
+    background-color: royalblue;
+    padding: 12px 22px;
     font-size: 16px;
 }
 
@@ -87,6 +80,12 @@ a.projects:visited {
 a.projects:hover { 
     color: green;    
 }
+a.buttons:hover {
+    background-color: green;
+}
 a.projects:active { 
     color: white;  
+}
+a.buttons:active {
+    background-color: white;
 }
