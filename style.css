@@ -1,6 +1,6 @@
 /* background color for whole page */
 body {
-    background-color: rgb(46, 45, 45);
+    background-color: rgb(22, 22, 22);
 }
 /* top line of page */
 h1 {
@@ -44,7 +44,7 @@ footer {
 
 /* formatting pic */
 .image {
-    margin-bottom: 10px;
+    margin: 0 auto;
     width: 300px;
     display: block;
 }
@@ -71,12 +71,18 @@ ol {
     text-align: left;
 }
 
+button {
+    color: royalblue;
+    padding: 15px 30px;
+    font-size: 16px;
+}
+
 /* link styling */
 a.projects:link {
     color: skyblue;    
 }
 a.projects:visited { 
-    color: rgb(253, 8, 8);  
+    color: skyblue;  
 }
 a.projects:hover { 
     color: green;    
