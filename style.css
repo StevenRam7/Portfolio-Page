@@ -67,9 +67,6 @@ ol {
 .button {
     background-color: skyblue;
     height: 30px;
-    width: 65px;
-    text-align: center;
-    justify-content: center;
     margin-left: 5px;
     margin-right: 5px;
     border-radius: 8px;
