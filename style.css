@@ -67,10 +67,9 @@ ol {
 .button {
     background-color: skyblue;
     height: 30px;
-    width: 60px;
+    width: 65px;
     text-align: center;
     justify-content: center;
-    /* font-size: 15px; */
     margin-left: 5px;
     margin-right: 5px;
     border-radius: 8px;
@@ -84,14 +83,16 @@ a.projects:visited {
     color: skyblue;  
 }
 a.projects:hover { 
-    color: green;    
+    color: green;
 }
 .button:hover {
     background-color: green;
+    border-color: green;
 }
 a.projects:active { 
     color: white;  
 }
 .button:active {
     background-color: white;
+    border-color: white;
 }
