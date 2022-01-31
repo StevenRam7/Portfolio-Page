@@ -69,6 +69,8 @@ ol {
     height: 30px;
     width: 60px;
     font-size: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 /* link styling */
@@ -88,5 +90,5 @@ a.projects:active {
     color: white;  
 }
 .button:active {
-    background-color: green;
+    background-color: white;
 }
