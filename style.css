@@ -64,7 +64,7 @@ ol {
     text-align: left;
 }
 
-button {
+.button {
     background-color: royalblue;
     height: 15px;
     width: 30px;
@@ -81,12 +81,12 @@ a.projects:visited {
 a.projects:hover { 
     color: green;    
 }
-button:hover {
+.button:hover {
     background-color: green;
 }
 a.projects:active { 
     color: white;  
 }
-button:active {
+.button:active {
     background-color: green;
 }
