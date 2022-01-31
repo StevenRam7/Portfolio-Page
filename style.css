@@ -1,6 +1,6 @@
 /* background color for whole page */
 body {
-    background-color: black;
+    background-color: rgb(46, 45, 45);
 }
 /* top line of page */
 h1 {
@@ -20,10 +20,6 @@ header, h3 {
 
 h2.title-line {
     margin-top: 5px;
-}
-
-h2.about-me {
-    margin-top: 10px;
 }
 
 h2, h3 {
@@ -48,7 +44,7 @@ footer {
 
 /* formatting pic */
 .image {
-    margin: 0 auto;
+    margin-bottom: 10px;
     width: 300px;
     display: block;
 }
