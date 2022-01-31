@@ -19,6 +19,10 @@ header, h3 {
 }
 
 h2.title-line {
+    margin-top: 5px;
+}
+
+h2.about-me {
     margin-top: 10px;
 }
 
@@ -72,15 +76,15 @@ ol {
 }
 
 /* link styling */
-a:link {
+a.projects:link {
     color: skyblue;    
 }
-a:visited { 
+a.projects:visited { 
     color: rgb(253, 8, 8);  
 }
-a:hover { 
+a.projects:hover { 
     color: green;    
 }
-a:active { 
+a.projects:active { 
     color: white;  
 }
