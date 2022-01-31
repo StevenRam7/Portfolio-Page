@@ -65,12 +65,15 @@ ol {
 }
 
 .button {
-    background-color: royalblue;
+    background-color: skyblue;
     height: 30px;
     width: 60px;
+    text-align: center;
+    justify-content: center;
     /* font-size: 15px; */
     margin-left: 5px;
     margin-right: 5px;
+    border-radius: 8px;
 }
 
 /* link styling */
