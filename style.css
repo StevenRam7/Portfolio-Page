@@ -51,15 +51,6 @@ p {
 ul {
     font-family: calibri, arial;
     color: white;
-    width: 250px;
-    margin: 0 auto;
-    text-align: left;
-}
-
-ol {
-    font-family: calibri, arial;
-    color: white;
-    width: 50px;
     margin: 0 auto;
     text-align: left;
 }
