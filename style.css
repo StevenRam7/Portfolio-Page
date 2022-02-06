@@ -51,8 +51,7 @@ p {
 ul {
     font-family: calibri, arial;
     color: white;
-    margin: 0 auto;
-    text-align: left;
+    list-style-type: square;
 }
 
 .button {
