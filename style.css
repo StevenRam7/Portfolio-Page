@@ -52,11 +52,11 @@ ul {
     font-family: calibri, arial;
     color: white;
     list-style-type: square;
-    margin-left: 20px;
+    margin-left: 60px;
 }
 
 li {
-    line-height: 10px;
+    line-height: 20px;
 }
 
 .button {
